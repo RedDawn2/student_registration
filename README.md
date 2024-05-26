@@ -1,2 +1,2 @@
 # Student Registration
-A student registration mobile application developed with Android Studio.
+Student registration mobile application developed with Android Studio.
